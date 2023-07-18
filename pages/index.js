@@ -48,7 +48,7 @@ export default function Home() {
       </div>
 
       <div className='flex flex-row items-center text-white p-2 bg-[#2c2c2c]'> 
-        <div className='justify-self-start '>Made with ❤️ by MLSC DB</div>
+        {/* <div className='justify-self-start '>Made with ❤️ by MLSC DB</div> */}
         {/* <button className='items-end rounded-lg border-2 p-2'>Follow us</button> */}
         <div className='grow'/>
         <span className="flex flex-row gap-2">
